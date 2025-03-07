@@ -1,0 +1,1148 @@
+[
+  {
+    "Code": 1,
+    "Name": "تهران",
+    "EnglishName": "TEHRAN",
+    "TelCode": "021",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 344,
+    "Name": "رباط كريم",
+    "EnglishName": "robatkarim",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 191,
+    "Name": "مشهد",
+    "EnglishName": "MASHAD",
+    "TelCode": "0511",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 25,
+    "Name": "اهواز",
+    "EnglishName": "AHVAZ",
+    "TelCode": "0611",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+
+  {
+    "Code": 219,
+    "Name": "یزد",
+    "EnglishName": "YAZD",
+    "TelCode": "0351",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 259,
+    "Name": "زاهدان",
+    "EnglishName": "ZAHEDAN",
+    "TelCode": "0541",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 337,
+    "Name": "آباده",
+    "EnglishName": "ABADEH",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 4,
+    "Name": "آبگرم",
+    "EnglishName": "ABGARM",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 7,
+    "Name": "آبیک",
+    "EnglishName": "ABYEK",
+    "TelCode": "0282282",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 224,
+    "Name": "آزادور",
+    "EnglishName": "AZADVAR",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 9,
+    "Name": "آتش بغ",
+    "EnglishName": "ATASHBAG",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 14,
+    "Name": "اراک",
+    "EnglishName": "ARAK",
+    "TelCode": "0861",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 261,
+    "Name": "اردکان",
+    "EnglishName": "ARDKAN",
+    "TelCode": "0352722",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 510,
+    "Name": "ارسنجان",
+    "EnglishName": "ARSANJAN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+
+  {
+    "Code": 448,
+    "Name": "ارومیه",
+    "EnglishName": "OROMIEH",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 18,
+    "Name": "ازنا",
+    "EnglishName": "AZNA",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 301,
+    "Name": "اسلامشهر",
+    "EnglishName": "ESLMSHAR",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 21,
+    "Name": "اصفهان",
+    "EnglishName": "ISFAHAN",
+    "TelCode": "0311",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 387,
+    "Name": "اقلید",
+    "EnglishName": "AGHLID",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 51,
+    "Name": "الوند",
+    "EnglishName": "ALVAND",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 24,
+    "Name": "اندیمشک",
+    "EnglishName": "ANDMESHK",
+    "TelCode": "0642422",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 28,
+    "Name": "بادرود",
+    "EnglishName": "BADRUD",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 30,
+    "Name": "بافق",
+    "EnglishName": "BAFGH",
+    "TelCode": "0352422",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 383,
+    "Name": "بجستان",
+    "EnglishName": "BJSTAN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 299,
+    "Name": "بم",
+    "EnglishName": "Bam",
+    "TelCode": "0344",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+
+  {
+    "Code": 36,
+    "Name": "بندرترکمن",
+    "EnglishName": "BNDTRKMN",
+    "TelCode": "0173422",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 37,
+    "Name": "بندرعباس",
+    "EnglishName": "BNDRABS",
+    "TelCode": "0761",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 226,
+    "Name": "بهاباد",
+    "EnglishName": "BHABAD",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 44,
+    "Name": "بیشه",
+    "EnglishName": "BISHE",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 43,
+    "Name": "بیابانک",
+    "EnglishName": "BIABANAK",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 401,
+    "Name": "پرند",
+    "EnglishName": "PARAND",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 50,
+    "Name": "پل سفید",
+    "EnglishName": "POLSEFID",
+    "TelCode": "0124522",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 53,
+    "Name": "پیشوا",
+    "EnglishName": "PISHVA",
+    "TelCode": "0292222",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 61,
+    "Name": "جاجرم",
+    "EnglishName": "JAJARM",
+    "TelCode": "0585322",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 221,
+    "Name": "جلفا",
+    "EnglishName": "JOLFA",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 351,
+    "Name": "جمکران",
+    "EnglishName": "JMKRN",
+    "TelCode": "0251725",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 62,
+    "Name": "جوین",
+    "EnglishName": "JOVIN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 66,
+    "Name": "چمسنگر",
+    "EnglishName": "CHAMSNGR",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 69,
+    "Name": "خراسانک",
+    "EnglishName": "KHORASAN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 70,
+    "Name": "خرم پی",
+    "EnglishName": "KHORMPEY",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 71,
+    "Name": "خرم دره",
+    "EnglishName": "KHORAMDR",
+    "TelCode": "0242552",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 72,
+    "Name": "خرمشهر",
+    "EnglishName": "KHORMSHR",
+    "TelCode": "0632420",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 369,
+    "Name": "خواف",
+    "EnglishName": "KHAF",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 373,
+    "Name": "زادمحمود",
+    "EnglishName": "ZADMHMOD",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 75,
+    "Name": "دامغان",
+    "EnglishName": "DAMGHAN",
+    "TelCode": "0232523",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 78,
+    "Name": "دورود",
+    "EnglishName": "DORUD",
+    "TelCode": "0665422",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 285,
+    "Name": "رازی",
+    "EnglishName": "RAZI",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 48,
+    "Name": "سراوان",
+    "EnglishName": "SARAVAN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 451,
+    "Name": "رشت",
+    "EnglishName": "RASHT",
+    "TelCode": "",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 92,
+    "Name": "زرند",
+    "EnglishName": "ZARAND",
+    "TelCode": "0342422",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 96,
+    "Name": "زرین دشت",
+    "EnglishName": "ZARINDSH",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 97,
+    "Name": "زنجان",
+    "EnglishName": "ZANJAN",
+    "TelCode": "0241",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 239,
+    "Name": "زواره",
+    "EnglishName": "ZAVRE",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 100,
+    "Name": "ساری",
+    "EnglishName": "SARI",
+    "TelCode": "0151",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 65,
+    "Name": "ساوه",
+    "EnglishName": "SAVEH",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 105,
+    "Name": "سبزوار",
+    "EnglishName": "SABZEVAR",
+    "TelCode": "0571",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 106,
+    "Name": "سپیددشت",
+    "EnglishName": "SEPIDASH",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 234,
+    "Name": "سرخس",
+    "EnglishName": "SRKHS",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 257,
+    "Name": "سعادت شهر",
+    "EnglishName": "SADATSHAHR",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 115,
+    "Name": "سلماس",
+    "EnglishName": "SOLMAS",
+    "TelCode": "0443522",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 116,
+    "Name": "سمنان",
+    "EnglishName": "SEMNAN",
+    "TelCode": "0231",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 123,
+    "Name": "سهند",
+    "EnglishName": "SAHAND",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 121,
+    "Name": "سوادکوه",
+    "EnglishName": "SAVADKOOH",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": true
+  },
+  {
+    "Code": 125,
+    "Name": "سیرجان",
+    "EnglishName": "SIRJAN",
+    "TelCode": "0345",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 128,
+    "Name": "سیمین دشت",
+    "EnglishName": "SIMINDSH",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 129,
+    "Name": "شازند",
+    "EnglishName": "SHAZAND",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 130,
+    "Name": "شاهرود",
+    "EnglishName": "SHAHRUD",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 133,
+    "Name": "شرفخانه",
+    "EnglishName": "SHRFKHN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+   {
+    "Code": 133,
+    "Name": "شرفخانه",
+    "EnglishName": "SHRFKHN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+   {
+    "Code": 143,
+    "Name": "خاوران(تبريز)",
+    "EnglishName": "khavaran",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 264,
+    "Name": "شهرضا",
+    "EnglishName": "SHAHREREZA",
+    "TelCode": "0321",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 135,
+    "Name": "شوش",
+    "EnglishName": "SHOUSH",
+    "TelCode": "0642522",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 134,
+    "Name": "شوشتر",
+    "EnglishName": "SHOSHTER",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 255,
+    "Name": "شیراز",
+    "EnglishName": "SHIRAZ",
+    "TelCode": "",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 144,
+    "Name": "شیرگاه",
+    "EnglishName": "SHIRGAH",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": true
+  },
+  {
+    "Code": 258,
+    "Name": "صفاشهر",
+    "EnglishName": "SAFASHAHR",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 311,
+    "Name": "طبس",
+    "EnglishName": "TABAS",
+    "TelCode": "0353422",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 54,
+    "Name": "تاکستان",
+    "EnglishName": "TAKESTAN",
+    "TelCode": "0282522",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 55,
+    "Name": "تبریز",
+    "EnglishName": "TABRIZ",
+    "TelCode": "0411",
+    "Group": "ایستگاه های پردد",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 56,
+    "Name": "تپه سفید",
+    "EnglishName": "TAPESFID",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 251,
+    "Name": "تربت حیدریه",
+    "EnglishName": "TRBTHDR",
+    "TelCode": "0531",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 912,
+    "Name": "تربیت معلم",
+    "EnglishName": "TARBIATMOALEM",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 59,
+    "Name": "تنگ هفت",
+    "EnglishName": "TANGHAFT",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 148,
+    "Name": "عجب شیر",
+    "EnglishName": "AJABSHIR",
+    "TelCode": "0422622",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 509,
+    "Name": "فهرج",
+    "EnglishName": "FAHRAJ",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 40,
+    "Name": "فیروزان",
+    "EnglishName": "FIROZAN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 154,
+    "Name": "فیروزکوه",
+    "EnglishName": "FIRUZKUH",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 156,
+    "Name": "قائمشهر",
+    "EnglishName": "GHAEMSHR",
+    "TelCode": "0123",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 160,
+    "Name": "قزوین",
+    "EnglishName": "QAZVIN",
+    "TelCode": "0281",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 161,
+    "Name": "قم",
+    "EnglishName": "QOM",
+    "TelCode": "0251",
+    "Group": "",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 403,
+    "Name": "کارون",
+    "EnglishName": "KARUN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 162,
+    "Name": "کاشان",
+    "EnglishName": "KASHAN",
+    "TelCode": "0361",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 512,
+    "Name": "کربلا",
+    "EnglishName": "KARBALA",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 165,
+    "Name": "کرج",
+    "EnglishName": "KARAJ",
+    "TelCode": "0261",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 167,
+    "Name": "کرمان",
+    "EnglishName": "KERMAN",
+    "TelCode": "0341",
+    "Group": "",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 195,
+    "Name": "کرمانشاه",
+    "EnglishName": "kermanshah",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 175,
+    "Name": "گرگان",
+    "EnglishName": "GORGAN",
+    "TelCode": "0171",
+    "Group": "",
+    "IsCarTicket": true,
+    "IsExclusion": false
+  },
+  {
+    "Code": 176,
+    "Name": "گرمسار",
+    "EnglishName": "GARMSAR",
+    "TelCode": "0232422",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 302,
+    "Name": "ماهشهر",
+    "EnglishName": "MHSHR",
+    "TelCode": "0652232",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 249,
+    "Name": "محمدیه",
+    "EnglishName": "MHMADIE",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 189,
+    "Name": "مراغه",
+    "EnglishName": "MARAGEH",
+    "TelCode": "0421",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 256,
+    "Name": "مرودشت",
+    "EnglishName": "MARVDASHT",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 15,
+    "Name": "ملایر",
+    "EnglishName": "MALAYER",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 194,
+    "Name": "مهاباد",
+    "EnglishName": "MAHABAD",
+    "TelCode": "0442222",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 86,
+    "Name": "مهران",
+    "EnglishName": "Mehran",
+    "TelCode": "0",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 250,
+    "Name": "میاندوآب",
+    "EnglishName": "MIANDOAB",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 197,
+    "Name": "میانه",
+    "EnglishName": "MIANEH",
+    "TelCode": "0423222",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 198,
+    "Name": "میبد",
+    "EnglishName": "MEYBOD",
+    "TelCode": "0352772",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 202,
+    "Name": "نقاب",
+    "EnglishName": "NEGAB",
+    "TelCode": "0572522",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 203,
+    "Name": "نکار",
+    "EnglishName": "NEKA",
+    "TelCode": "0152562",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 206,
+    "Name": "نیشابور",
+    "EnglishName": "NEYSHABR",
+    "TelCode": "0551",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 215,
+    "Name": "هشتگرد",
+    "EnglishName": "HASHTGER",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 216,
+    "Name": "هفت تپه",
+    "EnglishName": "HAFTAPE",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 117,
+    "Name": "همدان",
+    "EnglishName": "HAMEDAN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 209,
+    "Name": "ورامین",
+    "EnglishName": "VARAMIN",
+    "TelCode": "0291",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 295,
+    "Name": "وان",
+    "EnglishName": "VAN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 290,
+    "Name": "آنکارا",
+    "EnglishName": "ANKARA",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 211,
+    "Name": "ورزنه",
+    "EnglishName": "VARZANEH",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 212,
+    "Name": "ورسک",
+    "EnglishName": "VERESK",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 213,
+    "Name": "هرند",
+    "EnglishName": "HARAND",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 218,
+    "Name": "یاتری",
+    "EnglishName": "YATRI",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 513,
+    "Name": "خاش",
+    "EnglishName": "khash",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 300,
+    "Name": "سنندج",
+    "EnglishName": "sanandaj",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 120,
+    "Name": "سنخواست",
+    "EnglishName": "Sankhast",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 34,
+    "Name": "بکران",
+    "EnglishName": "Bekran",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 260,
+    "Name": "باباکمال",
+    "EnglishName": "Baba Kamal",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  },
+  {
+    "Code": 20,
+    "Name": "اسفراین",
+    "EnglishName": "ESFARAYEN",
+    "TelCode": "",
+    "Group": "",
+    "IsCarTicket": false,
+    "IsExclusion": false
+  }
+]

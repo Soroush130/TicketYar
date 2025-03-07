@@ -1,0 +1,365 @@
+{
+  "data": [
+    {
+      "id": 15,
+      "attributes": {
+        "origin": "*",
+        "destination": "THR",
+        "createdAt": "2024-02-21T09:06:20.287Z",
+        "updatedAt": "2025-01-19T11:06:28.037Z",
+        "publishedAt": "2024-02-21T09:06:22.757Z",
+        "locale": "ab",
+        "lead": [],
+        "content": [],
+        "internalLinks": null,
+        "loadingBanner": [
+          {
+            "id": 392,
+            "title": "علی‌بابا، همسفر هر سفر",
+            "subtitle": " ",
+            "badge": null,
+            "disable": false,
+            "threshold": 4,
+            "showText": false,
+            "image": {
+              "data": {
+                "id": 17498,
+                "attributes": {
+                  "name": "AdHoc-Requests-Refund-Penalty-Waiting-Banner-02.06.19_1.webp",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 650,
+                  "height": 300,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_AdHoc-Requests-Refund-Penalty-Waiting-Banner-02.06.19_1.webp",
+                      "hash": "thumbnail_Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3",
+                      "ext": ".webp",
+                      "mime": "image/webp",
+                      "path": null,
+                      "width": 245,
+                      "height": 113,
+                      "size": 4.99,
+                      "url": "https://cdn.alibaba.ir/cms/uploads/thumbnail_Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3.webp"
+                    },
+                    "small": {
+                      "name": "small_AdHoc-Requests-Refund-Penalty-Waiting-Banner-02.06.19_1.webp",
+                      "hash": "small_Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3",
+                      "ext": ".webp",
+                      "mime": "image/webp",
+                      "path": null,
+                      "width": 500,
+                      "height": 231,
+                      "size": 11.85,
+                      "url": "https://cdn.alibaba.ir/cms/uploads/small_Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3.webp"
+                    }
+                  },
+                  "hash": "Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3",
+                  "ext": ".webp",
+                  "mime": "image/webp",
+                  "size": 17.38,
+                  "url": "https://cdn.alibaba.ir/cms/uploads/Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3.webp",
+                  "previewUrl": null,
+                  "provider": "/app/hydra/src/plugins/upload-minio/upload-minio.js",
+                  "provider_metadata": null,
+                  "createdAt": "2025-01-06T12:54:59.285Z",
+                  "updatedAt": "2025-01-06T12:54:59.285Z"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "origin": "*",
+        "destination": "*",
+        "createdAt": "2022-12-13T05:50:47.624Z",
+        "updatedAt": "2025-01-06T12:55:50.422Z",
+        "publishedAt": "2022-12-13T05:50:50.250Z",
+        "locale": "ab",
+        "lead": [],
+        "content": [],
+        "internalLinks": {
+          "id": 80,
+          "title": null,
+          "icon": null,
+          "additionalLinks": [
+            {
+              "id": 566,
+              "title": "<p><span style=\"color:#0A0B0C;\">بلیط هواپیما</span></p>",
+              "href": "https://www.alibaba.ir",
+              "target": "blank"
+            },
+            {
+              "id": 660,
+              "title": "<p><span style=\"color:#0A0B0C;\">بلیط هواپیما ارزان</span></p>",
+              "href": "https://www.alibaba.ir/cheap-ticket",
+              "target": "blank"
+            },
+            {
+              "id": 661,
+              "title": "<p><span style=\"color:#0A0B0C;\">بلیط هواپیما تهران مشهد</span></p>",
+              "href": "https://www.alibaba.ir/flights/THR-MHD",
+              "target": "blank"
+            },
+            {
+              "id": 662,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما مشهد تهران</span></p>",
+              "href": "https://www.alibaba.ir/flights/MHD-THR",
+              "target": "blank"
+            },
+            {
+              "id": 663,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما اصفهان مشهد</span></p>",
+              "href": "https://www.alibaba.ir/flights/IFN-MHD",
+              "target": "blank"
+            },
+            {
+              "id": 664,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما تهران شیراز</span></p>",
+              "href": "https://www.alibaba.ir/flights/THR-SYZ",
+              "target": "blank"
+            },
+            {
+              "id": 665,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما اهواز مشهد</span></p>",
+              "href": "https://www.alibaba.ir/flights/AWZ-MHD",
+              "target": "blank"
+            },
+            {
+              "id": 666,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما شیراز تهران</span></p>",
+              "href": "https://www.alibaba.ir/flights/SYZ-THR",
+              "target": "blank"
+            },
+            {
+              "id": 667,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما تهران تبریز</span></p>",
+              "href": "https://www.alibaba.ir/flights/THR-TBZ",
+              "target": "blank"
+            },
+            {
+              "id": 668,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما تبریز تهران</span></p>",
+              "href": "https://www.alibaba.ir/flights/TBZ-THR",
+              "target": "blank"
+            },
+            {
+              "id": 669,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما تبریز مشهد</span></p>",
+              "href": "https://www.alibaba.ir/flights/TBZ-MHD",
+              "target": "blank"
+            },
+            {
+              "id": 670,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما اهواز تهران</span></p>",
+              "href": "https://www.alibaba.ir/flights/AWZ-THR",
+              "target": "blank"
+            },
+            {
+              "id": 671,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما تهران اهواز</span></p>",
+              "href": "https://www.alibaba.ir/flights/THR-AWZ",
+              "target": "blank"
+            },
+            {
+              "id": 672,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما کرمانشاه مشهد</span></p>",
+              "href": "https://www.alibaba.ir/flights/KSH-MHD",
+              "target": "blank"
+            },
+            {
+              "id": 673,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">پرواز تهران کرمان</span></p>",
+              "href": "https://www.alibaba.ir/flights/THR-KER",
+              "target": "blank"
+            },
+            {
+              "id": 674,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما ارومیه تهران</span></p>",
+              "href": "https://www.alibaba.ir/flights/OMH-THR",
+              "target": "blank"
+            },
+            {
+              "id": 675,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما زاهدان تهران</span></p>",
+              "href": "https://www.alibaba.ir/flights/ZAH-THR",
+              "target": "blank"
+            },
+            {
+              "id": 676,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما رشت به مشهد</span></p>",
+              "href": "https://www.alibaba.ir/flights/RAS-MHD",
+              "target": "blank"
+            },
+            {
+              "id": 677,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما یزد تهران</span></p>",
+              "href": "https://www.alibaba.ir/flights/AZD-THR",
+              "target": "blank"
+            },
+            {
+              "id": 678,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">پرواز کیش به تهران</span></p>",
+              "href": "https://www.alibaba.ir/flights/KIH-THR",
+              "target": "blank"
+            },
+            {
+              "id": 679,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما چابهار به تهران</span></p>",
+              "href": "https://www.alibaba.ir/flights/ZBR-THR",
+              "target": "blank"
+            },
+            {
+              "id": 680,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما ایلام تهران</span></p>",
+              "href": "https://www.alibaba.ir/flights/IIL-THR",
+              "target": "blank"
+            },
+            {
+              "id": 681,
+              "title": "<p><span style=\"background-color:rgb(255,255,255);color:rgb(0,0,0);\">بلیط هواپیما مشهد کرمانشاه</span></p>",
+              "href": "https://www.alibaba.ir/flights/MHD-KSH",
+              "target": "blank"
+            },
+            {
+              "id": 682,
+              "title": "<p><span style=\"color:#0A0B0C;\">بلیط شیراز کیش</span></p>",
+              "href": "https://www.alibaba.ir/flights/SYZ-KIH",
+              "target": "blank"
+            },
+            {
+              "id": 683,
+              "title": "<p><span style=\"color:#0A0B0C;\">بلیط کیش اصفهان</span></p>",
+              "href": "https://www.alibaba.ir/flights/KIH-IFN",
+              "target": "blank"
+            }
+          ]
+        },
+        "loadingBanner": [
+          {
+            "id": 3,
+            "title": "علی‌بابا، همسفر هر سفر",
+            "subtitle": " ",
+            "badge": null,
+            "disable": false,
+            "threshold": 1,
+            "showText": false,
+            "image": {
+              "data": {
+                "id": 17498,
+                "attributes": {
+                  "name": "AdHoc-Requests-Refund-Penalty-Waiting-Banner-02.06.19_1.webp",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 650,
+                  "height": 300,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_AdHoc-Requests-Refund-Penalty-Waiting-Banner-02.06.19_1.webp",
+                      "hash": "thumbnail_Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3",
+                      "ext": ".webp",
+                      "mime": "image/webp",
+                      "path": null,
+                      "width": 245,
+                      "height": 113,
+                      "size": 4.99,
+                      "url": "https://cdn.alibaba.ir/cms/uploads/thumbnail_Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3.webp"
+                    },
+                    "small": {
+                      "name": "small_AdHoc-Requests-Refund-Penalty-Waiting-Banner-02.06.19_1.webp",
+                      "hash": "small_Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3",
+                      "ext": ".webp",
+                      "mime": "image/webp",
+                      "path": null,
+                      "width": 500,
+                      "height": 231,
+                      "size": 11.85,
+                      "url": "https://cdn.alibaba.ir/cms/uploads/small_Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3.webp"
+                    }
+                  },
+                  "hash": "Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3",
+                  "ext": ".webp",
+                  "mime": "image/webp",
+                  "size": 17.38,
+                  "url": "https://cdn.alibaba.ir/cms/uploads/Ad_Hoc_Requests_Refund_Penalty_Waiting_Banner_02_06_19_1_cab84fc4a3.webp",
+                  "previewUrl": null,
+                  "provider": "/app/hydra/src/plugins/upload-minio/upload-minio.js",
+                  "provider_metadata": null,
+                  "createdAt": "2025-01-06T12:54:59.285Z",
+                  "updatedAt": "2025-01-06T12:54:59.285Z"
+                }
+              }
+            }
+          },
+          {
+            "id": 462,
+            "title": "سفر رویاییت رو به تعویق ننداز",
+            "subtitle": "خرید اقساطی سفر از علی بابا",
+            "badge": null,
+            "disable": false,
+            "threshold": 2,
+            "showText": false,
+            "image": {
+              "data": {
+                "id": 17495,
+                "attributes": {
+                  "name": "AL-Digitalmarketing-on-going-Installment-purchase-Waiting-Banner-03.07.15.webp",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 650,
+                  "height": 300,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_AL-Digitalmarketing-on-going-Installment-purchase-Waiting-Banner-03.07.15.webp",
+                      "hash": "thumbnail_AL_Digitalmarketing_on_going_Installment_purchase_Waiting_Banner_03_07_15_fbcd860b72",
+                      "ext": ".webp",
+                      "mime": "image/webp",
+                      "path": null,
+                      "width": 245,
+                      "height": 113,
+                      "size": 4.3,
+                      "url": "https://cdn.alibaba.ir/cms/uploads/thumbnail_AL_Digitalmarketing_on_going_Installment_purchase_Waiting_Banner_03_07_15_fbcd860b72.webp"
+                    },
+                    "small": {
+                      "name": "small_AL-Digitalmarketing-on-going-Installment-purchase-Waiting-Banner-03.07.15.webp",
+                      "hash": "small_AL_Digitalmarketing_on_going_Installment_purchase_Waiting_Banner_03_07_15_fbcd860b72",
+                      "ext": ".webp",
+                      "mime": "image/webp",
+                      "path": null,
+                      "width": 500,
+                      "height": 231,
+                      "size": 9.53,
+                      "url": "https://cdn.alibaba.ir/cms/uploads/small_AL_Digitalmarketing_on_going_Installment_purchase_Waiting_Banner_03_07_15_fbcd860b72.webp"
+                    }
+                  },
+                  "hash": "AL_Digitalmarketing_on_going_Installment_purchase_Waiting_Banner_03_07_15_fbcd860b72",
+                  "ext": ".webp",
+                  "mime": "image/webp",
+                  "size": 14.04,
+                  "url": "https://cdn.alibaba.ir/cms/uploads/AL_Digitalmarketing_on_going_Installment_purchase_Waiting_Banner_03_07_15_fbcd860b72.webp",
+                  "previewUrl": null,
+                  "provider": "/app/hydra/src/plugins/upload-minio/upload-minio.js",
+                  "provider_metadata": null,
+                  "createdAt": "2025-01-06T12:19:55.736Z",
+                  "updatedAt": "2025-01-06T12:19:55.736Z"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}
