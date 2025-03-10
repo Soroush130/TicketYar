@@ -10,6 +10,8 @@ def get_tickets_train_from_site(parameters):
         base_url += f"&{key}={value}"
 
     response = requests.get(base_url)
+    print(response)
+    print(response.status_code)
 
     if response.status_code != 200:
         return False, "متاسفیم! در حال حاضر امکان مشاهده بلیط قطار به علت عملیات پشتیبانی راه آهن وجود ندارد. دقایقی دیگر منتظرتان هستیم."
