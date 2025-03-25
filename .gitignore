@@ -2,4 +2,16 @@ venv/*
 venv/
 venv
 
+.idea
+
+
 __pycache__/*
+scraper/__pycache__/*
+models/__pycache__/*
+reports/__pycache__/*
+
+TicketYar.db
+*.db
+user_list.xlsx
+*.xlsx
+*.pdf
