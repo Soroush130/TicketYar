@@ -3,6 +3,8 @@ charset-normalizer==3.4.1
 idna==3.10
 jalali_core==1.0.0
 jdatetime==5.2.0
+mysql-connector-python==9.2.0
+mysqlclient==2.2.7
 peewee==3.17.9
 pyTelegramBotAPI==4.26.0
 requests==2.32.3

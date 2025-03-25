@@ -4,7 +4,7 @@ import json
 from scraper.ticket_flight import get_tickets_flight_from_site
 from scraper.ticket_train import get_tickets_train_from_site
 from scraper.ticket_bus import get_tickets_bus_from_site
-from utils import read_city_json, register_user
+from utils import read_city_json, register_user, convert_jalali_to_gregorian
 from models.Users_models import User
 from reports.export_xlsx import create_export_xlsx_users
 
@@ -67,9 +67,7 @@ def get_all_users(message):
 def send_welcome(message):
     # Register New User
     register_user(information=message)
-    
-    
-    
+
     markup = types.InlineKeyboardMarkup(row_width=2)
     btn_train = types.InlineKeyboardButton("🚆 بلیط قطار", callback_data="train_ticket")
     btn_plane = types.InlineKeyboardButton("✈️ بلیط هواپیما", callback_data="plane_ticket")

@@ -1,7 +1,15 @@
 from peewee import *
 import datetime
+from peewee import MySQLDatabase, Model, CharField
 
-db = SqliteDatabase('TicketYar.db')
+# Connect to the MySQL database
+db = MySQLDatabase('jimmy',
+                   user='root',
+                   password='mfApsgdPdGuBnioj',
+                   host='services.gen5.chabokan.net',
+                   port=44104)
+
+# db = SqliteDatabase('TicketYar.db')
 
 class User(Model):
     username = CharField(unique=True)
@@ -14,7 +22,13 @@ class User(Model):
     class Meta:
         database = db
         
-db.connect()
-db.create_tables([User])
+try:
+    db.connect()
+    db.create_tables([User])
+except Exception as e:
+    print(f"Database connection error: {e}")
+finally:
+    if not db.is_closed():
+        db.close()
 
 
