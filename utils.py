@@ -6,6 +6,8 @@ from scraper.ticket_flight import get_tickets_flight_from_site
 from scraper.ticket_train import get_tickets_train_from_site
 from scraper.ticket_bus import get_tickets_bus_from_site
 
+from models.Users_models import User
+
 
 def get_tickets_bus(state):
     messages = []
@@ -158,3 +160,26 @@ def convert_jalali_to_gregorian(jalali_date):
     gregorian_datetime = datetime.datetime.strptime(jalali_date, "%Y-%m-%dT%H:%M:%S")
     jalali_date = jdatetime.datetime.fromgregorian(datetime=gregorian_datetime)
     return jalali_date.strftime("%Y/%m/%d - %H:%M")
+
+
+def register_user(information):
+    user_id = information.from_user.id
+    first_name = information.from_user.first_name or ""   # Handle None
+    last_name = information.from_user.last_name or ""     # Handle None
+    username = information.from_user.username or f"user_{user_id}"  # Fallback for username
+    language_code = information.from_user.language_code or "unknown"
+
+    try:
+        # Try to get the user from the database
+        user = User.get(User.username == username, User.user_id == user_id)
+        return user
+    except User.DoesNotExist:
+        # If user does not exist, create a new one
+        user = User.create(
+            username=username,
+            user_id=user_id,
+            first_name=first_name,
+            last_name=last_name,
+            language_code=language_code
+        )
+        return user
